@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h2>
 
 <!-- Soft pink aesthetic GIF -->
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230" style="border-radius:12px;">
+<img align='right' src=https://github.com/user-attachments/assets/a7689a8b-4b66-486c-8c13-7995d2aa79ec width="230" style="border-radius:12px;">
 
 <p>
   <em>
