@@ -2,7 +2,7 @@
 
 # Hi, I'm Nikita Tulsidasani 💖
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+IIIT+Jabalpur;Full+Stack+Developer;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=ECE+Student+%7C+IIIT+Jabalpur;Full+Stack+Developer;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-tulsidasani)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ntulsidasani)
@@ -44,11 +44,8 @@ Passion-driven developer with strong problem-solving depth and a fast learning c
 
 <div align="center">
 
-![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ntulsidasani&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4&border_color=FF69B4&hide_border=false)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ntulsidasani&theme=radical&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&border=FF69B4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ntulsidasani&layout=compact&theme=radical&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&border_color=FF69B4)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ntulsidasani&color=FF69B4&style=flat-square)
 
