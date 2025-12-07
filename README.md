@@ -2,7 +2,7 @@
 
 # Hi, I'm Nikita Tulsidasani 💖
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=ECE+student+%7C+IIIT+Jabalpur+%F0%9F%92%96;Life+in+Plastic%2C+It's+Fantastic!+%E2%9C%A8;Let's+Code+Together!+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=ECE+student+%7C+IIIT+Jabalpur+%F0%9F%92%96;Problem+Solver;Competitive+Programmer;%E2%9C%A8;Let's+Code+Together!+%F0%9F%92%BB" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-tulsidasani)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ntulsidasani)
