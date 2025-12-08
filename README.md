@@ -61,7 +61,7 @@ Passion-driven developer with strong problem-solving depth and a fast learning c
 |----------|-------|---------|
 | **LeetCode** | ![LeetCode](https://img.shields.io/badge/Solved-360+-FF69B4?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-120+-FFC0CB?style=flat-square) | [Visit Profile](https://leetcode.com/u/NikitaTulsidasani/) |
 | **CodeChef** | ![CodeChef](https://img.shields.io/badge/Rating-2★-FF69B4?style=flat-square) | [Visit Profile](https://www.codechef.com/users/shy_orchid_12) |
-| **Codeforces** | ![Codeforces](https://img.shields.io/badge/Max_Rating-1029-FF69B4?style=flat-square) ![Problems](https://img.shields.io/badge/Solved-50+-FFC0CB?style=flat-square) | [Visit Profile](https://codeforces.com/profile/ntulsidasani) |
+| **Codeforces** | ![Codeforces](https://img.shields.io/badge/Max_Rating-1029-FF69B4?style=flat-square) ![Problems](https://img.shields.io/badge/Solved-50+-FFC0CB?style=flat-square) | [Visit Profile](https://codeforces.com/profile/tulsidasaninikita14) |
 
 </div>
 
