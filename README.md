@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-tulsidasani)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ntulsidasani)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/ntulsidasani)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/NikitaTulsidasani/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikitatulsidasani@gmail.com)
 
 </div>
@@ -59,7 +59,7 @@ Passion-driven developer with strong problem-solving depth and a fast learning c
 
 | Platform | Stats | Profile |
 |----------|-------|---------|
-| **LeetCode** | ![LeetCode](https://img.shields.io/badge/Solved-360+-FF69B4?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-120+-FFC0CB?style=flat-square) | [Visit Profile](https://leetcode.com/ntulsidasani) |
+| **LeetCode** | ![LeetCode](https://img.shields.io/badge/Solved-360+-FF69B4?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-120+-FFC0CB?style=flat-square) | [Visit Profile](https://leetcode.com/u/NikitaTulsidasani/) |
 | **CodeChef** | ![CodeChef](https://img.shields.io/badge/Rating-2★-FF69B4?style=flat-square) | [Visit Profile](https://www.codechef.com/users/ntulsidasani) |
 | **Codeforces** | ![Codeforces](https://img.shields.io/badge/Max_Rating-1029-FF69B4?style=flat-square) ![Problems](https://img.shields.io/badge/Solved-50+-FFC0CB?style=flat-square) | [Visit Profile](https://codeforces.com/profile/ntulsidasani) |
 
