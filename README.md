@@ -42,11 +42,17 @@ Passion-driven developer with strong problem-solving depth and a fast learning c
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntulsidasani&theme=radical&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&border=FF69B4" alt="GitHub Streak" />
+<div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=ntulsidasani&color=FF69B4&style=flat-square" alt="Profile Views" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ntulsidasani&theme=radical&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&border=FF69B4)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=ntulsidasani&color=FF69B4&style=flat-square)
+
+</div>
+
+---
+
 
 ## 🏆 Competitive Programming
 
