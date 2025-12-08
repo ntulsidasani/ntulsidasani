@@ -93,7 +93,7 @@ Passion-driven developer with strong problem-solving depth and a fast learning c
 
 ## 🚀 Featured Projects
 
-### 🔍 [Code Analyzer Web Application](https://github.com/ntulsidasani) 
+### 🔍 [Code Analyzer Web Application](https://github.com/ntulsidasani/code--analyser) 
 **Flask | Python (AST) | JavaScript** | *2025*
 
 A web tool to analyze Python/C++ code using Abstract Syntax Trees (AST) and regex for detecting syntax and structural issues.
@@ -101,7 +101,7 @@ A web tool to analyze Python/C++ code using Abstract Syntax Trees (AST) and rege
 - Integrated GitHub file import functionality
 - Deployed on Render for production use
 
-### 👥 [Quick Teams - Team Formation App](https://github.com/ntulsidasani)
+### 👥 [Quick Teams - Team Formation App](https://github.com/SHIV24116/Quick-Teams-web-app)
 **Flask | Flask-Login | SQLAlchemy** | *2025*
 
 Full-stack platform enabling skill-based teammate matching for hackathons and collaborative events.
@@ -109,7 +109,7 @@ Full-stack platform enabling skill-based teammate matching for hackathons and co
 - Designed database schema for user skills and invite system
 - Created matching algorithm for optimal team formation
 
-### 💰 [Expense Tracker Web Application](https://github.com/ntulsidasani)
+### 💰 [Expense Tracker Web Application](https://github.com/ntulsidasani/Expense-Tracker-)
 **HTML | CSS | JavaScript | Chart.js** | *2024*
 
 Responsive web application for logging and visualizing personal expenses with automatic calculations.
