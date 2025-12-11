@@ -123,7 +123,7 @@ Responsive web application for logging and visualizing personal expenses with au
 ## 🎯 Key Achievements
 
 - 🥇 **360+ problems** solved on LeetCode (including 120+ Medium difficulty)
-- 💻 **166+ contributions** on GitHub
+- 💻 **250+ contributions** on GitHub
 - ⭐ **2-star rating** on CodeChef with regular contest participation
 - 📈 **Codeforces rating**: Peak 1029 with 50+ problems solved
 - 🏆 Participated in **"Can U Hack It"** — Inter-college 24-hour hackathon
